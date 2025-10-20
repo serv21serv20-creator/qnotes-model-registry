@@ -1,0 +1,1 @@
+# qnotes-model-registry
