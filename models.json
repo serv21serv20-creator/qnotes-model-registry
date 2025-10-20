@@ -1,5 +1,36 @@
 {
-  "groq": ["llama-3.3-70b-versatile", "llama-3.1-8b-instant"],
-  "gemini": ["gemini-1.5-flash", "gemini-1.5-pro"],
-  "updated_at": "2025-01-01T00:00:00Z"
+  "groq": [
+    "llama-3.1-8b-instant",
+    "llama-3.3-70b-versatile",
+    "allam-2-7b",
+    "groq/compound",
+    "groq/compound-mini",
+    "meta-llama/llama-4-maverick-17b-128e-instruct",
+    "meta-llama/llama-4-scout-17b-16e-instruct",
+    "meta-llama/llama-guard-4-12b",
+    "meta-llama/llama-prompt-guard-2-22m",
+    "meta-llama/llama-prompt-guard-2-86m",
+    "moonshotai/kimi-k2-instruct",
+    "moonshotai/kimi-k2-instruct-0905",
+    "openai/gpt-oss-120b",
+    "openai/gpt-oss-20b",
+    "playai-tts",
+    "playai-tts-arabic",
+    "qwen/qwen3-32b",
+    "whisper-large-v3",
+    "whisper-large-v3-turbo"
+  ],
+  "gemini": [
+    "embedding-001",
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-001",
+    "gemini-2.0-flash-lite",
+    "gemini-2.0-flash-lite-001",
+    "gemini-2.0-flash-preview-image-generation",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-2.5-pro",
+    "text-embedding-004"
+  ],
+  "updated_at": "2025-10-20T15:24:35Z"
 }
