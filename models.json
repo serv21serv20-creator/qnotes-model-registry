@@ -14,6 +14,7 @@
     "moonshotai/kimi-k2-instruct-0905",
     "openai/gpt-oss-120b",
     "openai/gpt-oss-20b",
+    "openai/gpt-oss-safeguard-20b",
     "playai-tts",
     "playai-tts-arabic",
     "qwen/qwen3-32b",
@@ -32,5 +33,5 @@
     "gemini-2.5-pro",
     "text-embedding-004"
   ],
-  "updated_at": "2025-10-29T03:58:15Z"
+  "updated_at": "2025-10-30T03:51:16Z"
 }
