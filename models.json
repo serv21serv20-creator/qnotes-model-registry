@@ -27,11 +27,10 @@
     "gemini-2.0-flash-001",
     "gemini-2.0-flash-lite",
     "gemini-2.0-flash-lite-001",
-    "gemini-2.0-flash-preview-image-generation",
     "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
     "gemini-2.5-pro",
     "text-embedding-004"
   ],
-  "updated_at": "2025-11-14T03:54:41Z"
+  "updated_at": "2025-11-15T03:15:50Z"
 }
