@@ -17,8 +17,6 @@
     "openai/gpt-oss-120b",
     "openai/gpt-oss-20b",
     "openai/gpt-oss-safeguard-20b",
-    "playai-tts",
-    "playai-tts-arabic",
     "qwen/qwen3-32b",
     "whisper-large-v3",
     "whisper-large-v3-turbo"
@@ -34,5 +32,5 @@
     "gemini-2.5-pro",
     "text-embedding-004"
   ],
-  "updated_at": "2026-01-01T03:57:20Z"
+  "updated_at": "2026-01-02T03:48:26Z"
 }
