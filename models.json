@@ -7,13 +7,11 @@
     "canopylabs/orpheus-v1-english",
     "groq/compound",
     "groq/compound-mini",
-    "meta-llama/llama-4-scout-17b-16e-instruct",
     "meta-llama/llama-prompt-guard-2-22m",
     "meta-llama/llama-prompt-guard-2-86m",
     "openai/gpt-oss-120b",
     "openai/gpt-oss-20b",
     "openai/gpt-oss-safeguard-20b",
-    "qwen/qwen3-32b",
     "qwen/qwen3.6-27b",
     "whisper-large-v3",
     "whisper-large-v3-turbo"
@@ -22,5 +20,5 @@
     "gemini-1.5-flash",
     "gemini-1.5-pro"
   ],
-  "updated_at": "2026-07-17T05:22:48Z"
+  "updated_at": "2026-07-18T05:05:00Z"
 }
