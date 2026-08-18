@@ -1,7 +1,5 @@
 {
   "groq": [
-    "llama-3.1-8b-instant",
-    "llama-3.3-70b-versatile",
     "allam-2-7b",
     "canopylabs/orpheus-arabic-saudi",
     "canopylabs/orpheus-v1-english",
@@ -20,5 +18,5 @@
     "gemini-1.5-flash",
     "gemini-1.5-pro"
   ],
-  "updated_at": "2026-08-17T03:12:56Z"
+  "updated_at": "2026-08-18T03:08:35Z"
 }
