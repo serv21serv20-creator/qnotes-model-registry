@@ -10,7 +10,6 @@
     "openai/gpt-oss-120b",
     "openai/gpt-oss-20b",
     "openai/gpt-oss-safeguard-20b",
-    "qwen/qwen3.6-27b",
     "qwen/qwen3.8-27b",
     "whisper-large-v3",
     "whisper-large-v3-turbo"
@@ -19,5 +18,5 @@
     "gemini-1.5-flash",
     "gemini-1.5-pro"
   ],
-  "updated_at": "2026-09-14T07:54:40Z"
+  "updated_at": "2026-09-15T07:45:48Z"
 }
