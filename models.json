@@ -3,8 +3,6 @@
     "allam-2-7b",
     "canopylabs/orpheus-arabic-saudi",
     "canopylabs/orpheus-v1-english",
-    "groq/compound",
-    "groq/compound-mini",
     "meta-llama/llama-prompt-guard-2-22m",
     "meta-llama/llama-prompt-guard-2-86m",
     "openai/gpt-oss-120b",
@@ -18,5 +16,5 @@
     "gemini-1.5-flash",
     "gemini-1.5-pro"
   ],
-  "updated_at": "2026-09-21T07:58:31Z"
+  "updated_at": "2026-09-22T07:43:31Z"
 }
